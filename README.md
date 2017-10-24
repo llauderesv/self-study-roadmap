@@ -1,17 +1,17 @@
 # self-study-roadmap
 
-## Books ##
+## Books
 - [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
-## Tech to learn ##
+## Tech to learn
 - [ ] DraftJS
 - [ ] VueJS 
 
-## Courses ## 
+## Courses
 - [ ] [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 - [ ] [User Interface Design](https://www.coursera.org/specializations/user-interface-design)
 
-## Useful Repositories ##  
+## Useful Repositories
 - https://github.com/AllThingsSmitty/must-watch-javascript
 - https://github.com/MaximAbramchuck/awesome-interview-questions
 - https://github.com/bradfrost/frontend-guidelines-questionnaire
