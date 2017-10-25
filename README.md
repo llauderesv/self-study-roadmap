@@ -1,5 +1,7 @@
 # self-study-roadmap
 
+I am currently focused on Front-end developing, so this list will be front-end focused mostly. If you'd like to contribute on my self development journey, just create a PR with your suggestions so I can add them to my list.
+
 ## Books
 - [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
